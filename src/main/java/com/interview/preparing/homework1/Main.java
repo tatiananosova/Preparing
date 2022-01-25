@@ -1,7 +1,4 @@
-package com.interview.preparing;
-
-import com.interview.preparing.homework1.Circle;
-import com.interview.preparing.homework1.Shape;
+package com.interview.preparing.homework1;
 
 public class Main {
 
